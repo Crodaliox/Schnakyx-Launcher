@@ -1,7 +1,7 @@
 {
     "name": "Schnakyx-Launcher",
     "preductname": "Schnakyx Launcher",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Launcher Minecraft pour le serveur Schnakyx",
     "main": "src/app.js",
     "author": {

@@ -5,7 +5,7 @@ $instance['Schnakyx'] = array_merge($instance['Schnakyx'], array(
     "loadder" => array(
         "minecraft_version" => "1.20.1",
         "loadder_type" => "forge",
-        "loadder_version" => "latest"
+        "loadder_version" => "47.3.7"
     ),
     "verify" => false,
     "ignored" => array(
@@ -23,6 +23,9 @@ $instance['Schnakyx'] = array_merge($instance['Schnakyx'], array(
     "whitelist" => array(),
     "whitelistActive" => false,
     "status" => array(
+        "nameServer" => "Serveur Schnakyx"
+        "ip" => "SCHNAKYX.LOCATION-MINECRAFT.FR"
+        "port" => 27224
     )
 ));
 ?>
